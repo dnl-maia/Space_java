@@ -1,0 +1,5 @@
+projectKey=org.sonarqube:java-space-java
+serverUrl=http://10.12.2.44:9000
+dashboardUrl=http://10.12.2.44:9000/dashboard/index/org.sonarqube:java-space-java
+ceTaskId=AVe4hRD_VAPhyPbKrVIy
+ceTaskUrl=http://10.12.2.44:9000/api/ce/task?id=AVe4hRD_VAPhyPbKrVIy

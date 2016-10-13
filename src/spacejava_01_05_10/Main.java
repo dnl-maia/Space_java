@@ -140,7 +140,7 @@ private static char checkIfAtMoonMenu(Ship s, Planet jupiter, Planet earth, Plan
 
 
 
-	   System.out.println("\033");
+	   System.out.println("\033"));
            System.out.println("Welcome to the" + moon.getPlanetoidName() + " your home base ");
 	   System.out.println(":::Space News::: ");
 	   System.out.println("Planet   " + "Iron" + "\t" + "Price" + "\t" + "Sugar" + "\t" + "Price" + "\t" + "Rice" + "\t" + "Price");
